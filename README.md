@@ -18,12 +18,9 @@ works because we're using the exact same config format macos uses internally.
 ## installation
 
 ```bash
-# download the script
-curl -o wallpaper.py https://github.com/sushismitcher/Command-based-default-wallpaper-switcher-macOS/blob/main/wallpaper.py
+git clone https://github.com/sushismitcher/Command-based-default-wallpaper-switcher-macOS.git
+cd Command-based-default-wallpaper-switcher-macOS
 chmod +x wallpaper.py
-
-# move to somewhere in your PATH (optional)
-mv wallpaper.py /usr/local/bin/wallpaper
 ```
 
 ## setup
