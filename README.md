@@ -1,0 +1,1 @@
+# Command-based-default-wallpaper-switcher-macOS
