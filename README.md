@@ -19,7 +19,7 @@ works because we're using the exact same config format macos uses internally.
 
 ```bash
 # download the script
-curl -o wallpaper.py https://raw.githubusercontent.com/yourusername/macos-wallpaper-switcher/main/wallpaper.py
+curl -o wallpaper.py https://github.com/sushismitcher/Command-based-default-wallpaper-switcher-macOS/blob/main/wallpaper.py
 chmod +x wallpaper.py
 
 # move to somewhere in your PATH (optional)
